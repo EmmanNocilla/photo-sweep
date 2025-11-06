@@ -58,7 +58,7 @@ Get the latest version →
 
 ## 💙 Support Development
 If PhotoSweep saves you hours of cleanup:  
-👉 https://ko-fi.com/yourname
+👉 https://ko-fi.com/emmnkofi
 
 ---
 
