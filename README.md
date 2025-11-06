@@ -37,7 +37,7 @@ Perceptual hashes detect similarity even when:
 
 ## 📦 Download
 Get the latest version →  
-👉 https://github.com/yourname/photosweep/releases
+👉 https://github.com/yourname/photo-sweep/releases
 
 ---
 
